@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aarthi
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python,ML algorithms,Tableau,Sklearn,TF2
-- 💞️ I’m looking for oppurtunities in Machine LEarning/Data Scientist/Deep Learning role
+- 💞️ I’m looking for oppurtunities in Machine Learning/Data Scientist/Deep Learning role
 - 📫 How to reach me:- aarthiram96@gmail.com
 
 <!---
